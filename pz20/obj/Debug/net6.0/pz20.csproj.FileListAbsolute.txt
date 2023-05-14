@@ -1,0 +1,15 @@
+C:\Users\kleymenov.aa1688\source\repos\pz20\bin\Debug\net6.0\pz20.exe
+C:\Users\kleymenov.aa1688\source\repos\pz20\bin\Debug\net6.0\pz20.deps.json
+C:\Users\kleymenov.aa1688\source\repos\pz20\bin\Debug\net6.0\pz20.runtimeconfig.json
+C:\Users\kleymenov.aa1688\source\repos\pz20\bin\Debug\net6.0\pz20.dll
+C:\Users\kleymenov.aa1688\source\repos\pz20\bin\Debug\net6.0\pz20.pdb
+C:\Users\kleymenov.aa1688\source\repos\pz20\obj\Debug\net6.0\pz20.csproj.AssemblyReference.cache
+C:\Users\kleymenov.aa1688\source\repos\pz20\obj\Debug\net6.0\pz20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kleymenov.aa1688\source\repos\pz20\obj\Debug\net6.0\pz20.AssemblyInfoInputs.cache
+C:\Users\kleymenov.aa1688\source\repos\pz20\obj\Debug\net6.0\pz20.AssemblyInfo.cs
+C:\Users\kleymenov.aa1688\source\repos\pz20\obj\Debug\net6.0\pz20.csproj.CoreCompileInputs.cache
+C:\Users\kleymenov.aa1688\source\repos\pz20\obj\Debug\net6.0\pz20.dll
+C:\Users\kleymenov.aa1688\source\repos\pz20\obj\Debug\net6.0\refint\pz20.dll
+C:\Users\kleymenov.aa1688\source\repos\pz20\obj\Debug\net6.0\pz20.pdb
+C:\Users\kleymenov.aa1688\source\repos\pz20\obj\Debug\net6.0\pz20.genruntimeconfig.cache
+C:\Users\kleymenov.aa1688\source\repos\pz20\obj\Debug\net6.0\ref\pz20.dll
